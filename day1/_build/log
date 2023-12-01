@@ -1,0 +1,5 @@
+# dune init proj day1
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /mnt/c/Users/epollack/Desktop/wsl/ocaml/advent2023/day1
+# Auto-detected concurrency: 8
