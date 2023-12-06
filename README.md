@@ -2,4 +2,4 @@
 
 ## Goals
 - Try to do as many problems as possible in 25 days
-- Try to do as many of those problems in OCaml
+- Try to do as many of those problems in OCaml, falling back on Java as needed
