@@ -3,7 +3,7 @@
 # Shared cache: disabled
 # Workspace root: /mnt/c/Users/epollack/Desktop/wsl/ocaml/advent2023/day2
 # Auto-detected concurrency: 8
-$ /home/evanp/.opam/default/bin/ocamlc.opt -config > /tmp/dune_38b2d8_output
+$ /home/evanp/.opam/default/bin/ocamlc.opt -config > /tmp/dune_a7a2e7_output
 # Dune context:
 #  { name = "default"
 #  ; kind = "default"

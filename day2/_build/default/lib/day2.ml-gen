@@ -2,3 +2,6 @@
 
 (** @canonical Day2.Part1 *)
 module Part1 = Day2__Part1
+
+(** @canonical Day2.Part2 *)
+module Part2 = Day2__Part2
